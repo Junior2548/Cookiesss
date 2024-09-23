@@ -27,7 +27,7 @@ namespace CookiesPr
         }
 
       
-
+        // Junior got hacked
         private void SettingsIcon_Click(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("Language=English  Music=On Audio=On");
