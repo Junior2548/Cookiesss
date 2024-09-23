@@ -25,5 +25,25 @@ namespace CookiesPr
             cookiecount ++;
             CookieMeter.Text = cookiecount.ToString(); 
         }
+
+        private void UpgradePower_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void AutoClickUnlock_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void AutoClickSpeed_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void A_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
