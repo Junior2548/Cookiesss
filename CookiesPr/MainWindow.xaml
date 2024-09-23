@@ -39,7 +39,8 @@
             <Button x:Name="AutoClickSpeed" Content="Increase Auto click Speed"   FontSize="18"  HorizontalAlignment="Center" VerticalAlignment="Center" Click="AutoClickSpeed_Click" />
             <Separator Margin="4"/>
             <Button x:Name="A" Content="Increase Auto click Speed"   FontSize="18"  HorizontalAlignment="Center" VerticalAlignment="Center" Click="A_Click" />
-
+        </StackPanel>
+        
         <StackPanel Grid.Row="1" Grid.Column="0">
 
             <Label x:Name="EventTitle" Content="Events" FontSize="25" HorizontalAlignment="Center" VerticalAlignment="Top"  />
@@ -50,13 +51,10 @@
 
         <StackPanel x:Name="Settingsbar" Grid.Row="0" Grid.Column="0" >
             <Button x:Name="SettingsIcon" Click="SettingsIcon_Click" HorizontalAlignment="Left">
-                <Image Source="C:\Users\Robert\Documents\ForCc\Cookiesss\CookiesPr\Assets\SettingsIcon1.png" Width="20" Height="20" HorizontalAlignment="Left" VerticalAlignment="Center"  />
+                <Image Source="C:\Users\Guaba\OneDrive\Skrivebord\Cookie\Cookiesss\CookiesPr\Assets\SettingsIcon1.png" Width="20" Height="20" HorizontalAlignment="Left" VerticalAlignment="Center"  />
             </Button>
         </StackPanel>
-        
 
-        </StackPanel>
-        
-            
+
     </Grid>
 </Window>
